@@ -15,7 +15,7 @@ signatures, and encryption to verify the integrity of data and detect any unauth
 changes.
 
 
-**** COMPONENT DESGIN STRUCTURE****
+****COMPONENT DESGIN STRUCTURE****
 
 ![img](https://github.com/user-attachments/assets/13f63848-df69-428a-aa26-21476b28b0ae)
 
